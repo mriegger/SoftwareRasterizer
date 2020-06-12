@@ -1,0 +1,2 @@
+C:\SoftwareRasterizer\Debug\SoftwareRasterizer.exe
+C:\SoftwareRasterizer\Debug\SoftwareRasterizer.pdb
