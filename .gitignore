@@ -1,0 +1,10 @@
+*.dxil
+*.asm
+*.bin
+*.obj
+*.log
+*.tlog
+*.pdb
+*.ilk
+*.idb
+*.aps
